@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ebuy.mapper.AdministratorMapper">
+  <resultMap id="BaseResultMap" type="com.ebuy.domain.Administrator">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <result column="aname" jdbcType="VARCHAR" property="aname" />
+    <result column="apassword" jdbcType="VARCHAR" property="apassword" />
+  </resultMap>
+</mapper>

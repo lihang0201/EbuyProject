@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Category/Ebuy-Category.iml" filepath="$PROJECT_DIR$/Ebuy-Category/Ebuy-Category.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Category/Ebuy-Category-Service/Ebuy-Category-Service.iml" filepath="$PROJECT_DIR$/Ebuy-Category/Ebuy-Category-Service/Ebuy-Category-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Category/Ebuy-Category-Web/Ebuy-Category-Web.iml" filepath="$PROJECT_DIR$/Ebuy-Category/Ebuy-Category-Web/Ebuy-Category-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Common/Ebuy-Common.iml" filepath="$PROJECT_DIR$/Ebuy-Common/Ebuy-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Domain/Ebuy-Domain.iml" filepath="$PROJECT_DIR$/Ebuy-Domain/Ebuy-Domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Eureka/Ebuy-Eureka.iml" filepath="$PROJECT_DIR$/Ebuy-Eureka/Ebuy-Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Gateway/Ebuy-Gateway.iml" filepath="$PROJECT_DIR$/Ebuy-Gateway/Ebuy-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Generator/Ebuy-Generator.iml" filepath="$PROJECT_DIR$/Ebuy-Generator/Ebuy-Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Item/Ebuy-Item.iml" filepath="$PROJECT_DIR$/Ebuy-Item/Ebuy-Item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Item/Ebuy-Item-Interface/Ebuy-Item-Interface.iml" filepath="$PROJECT_DIR$/Ebuy-Item/Ebuy-Item-Interface/Ebuy-Item-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Item/Ebuy-Item-Service/Ebuy-Item-Service.iml" filepath="$PROJECT_DIR$/Ebuy-Item/Ebuy-Item-Service/Ebuy-Item-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Mapper/Ebuy-Mapper.iml" filepath="$PROJECT_DIR$/Ebuy-Mapper/Ebuy-Mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Parent/Ebuy-Parent.iml" filepath="$PROJECT_DIR$/Ebuy-Parent/Ebuy-Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Service/Ebuy-Service.iml" filepath="$PROJECT_DIR$/Ebuy-Service/Ebuy-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebuy-Web-Feign/Ebuy-Web-Feign.iml" filepath="$PROJECT_DIR$/Ebuy-Web-Feign/Ebuy-Web-Feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ebuy-project.iml" filepath="$PROJECT_DIR$/.idea/Ebuy-project.iml" />
+    </modules>
+  </component>
+</project>

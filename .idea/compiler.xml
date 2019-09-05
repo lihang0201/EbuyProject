@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Ebuy-Category-Service" />
+        <module name="Ebuy-Category-Web" />
+        <module name="Ebuy-Common" />
+        <module name="Ebuy-Domain" />
+        <module name="Ebuy-Eureka" />
+        <module name="Ebuy-Gateway" />
+        <module name="Ebuy-Generator" />
+        <module name="Ebuy-Item-Interface" />
+        <module name="Ebuy-Item-Service" />
+        <module name="Ebuy-Mapper" />
+        <module name="Ebuy-Service" />
+        <module name="Ebuy-Web-Feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ebuy-Api" target="1.8" />
+      <module name="Ebuy-Api (1)" target="1.8" />
+      <module name="Ebuy-Category" target="1.8" />
+      <module name="Ebuy-Category-Service" target="1.8" />
+      <module name="Ebuy-Category-Web" target="1.8" />
+      <module name="Ebuy-Common" target="1.8" />
+      <module name="Ebuy-Domain" target="1.8" />
+      <module name="Ebuy-Eureka" target="1.8" />
+      <module name="Ebuy-Gateway" target="1.8" />
+      <module name="Ebuy-Generator" target="1.8" />
+      <module name="Ebuy-Item" target="1.8" />
+      <module name="Ebuy-Item-Interface" target="1.8" />
+      <module name="Ebuy-Item-Service" target="1.8" />
+      <module name="Ebuy-Mapper" target="1.8" />
+      <module name="Ebuy-Parent" target="1.8" />
+      <module name="Ebuy-Service" target="1.8" />
+      <module name="Ebuy-Web-Feign" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Ebuy-Category-Service" options="-parameters" />
+      <module name="Ebuy-Category-Web" options="-parameters" />
+      <module name="Ebuy-Common" options="-parameters" />
+      <module name="Ebuy-Domain" options="-parameters" />
+      <module name="Ebuy-Eureka" options="-parameters" />
+      <module name="Ebuy-Gateway" options="-parameters" />
+      <module name="Ebuy-Generator" options="-parameters" />
+      <module name="Ebuy-Item-Interface" options="-parameters" />
+      <module name="Ebuy-Item-Service" options="-parameters" />
+      <module name="Ebuy-Mapper" options="-parameters" />
+      <module name="Ebuy-Service" options="-parameters" />
+      <module name="Ebuy-Web-Feign" options="-parameters" />
+    </option>
+  </component>
+</project>

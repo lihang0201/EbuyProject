@@ -1,0 +1,27 @@
+server:
+  port: 8762
+
+spring:
+  application:
+    name: ebuy-gateway
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+zuul:
+  prefix: /api #添加路由前缀
+  routes:
+    item-service: /item/**
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000 #熔断超时时间
+ribbon:
+  ConnectTimeout: 1000 #ribbon链接超时时长
+  ReadTmieout: 3500 #ribbon读取超时时长
+  MaxAutoRetires: 0 #当前服务重试次数
+  MaxAutoRetiresNextServer: 0 #切换服务重试次数

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ebuy-Web-Feign:war">
+    <output-path>$PROJECT_DIR$/Ebuy-Web-Feign/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ebuy-Web-Feign</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ebuy-Web-Feign-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ebuy-Web-Feign:war exploded" />
+    </root>
+  </artifact>
+</component>
