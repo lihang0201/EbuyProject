@@ -24,7 +24,7 @@
 
         <!-- Spring Settings -->
         <spring-cloud.version>Finchley.RC1</spring-cloud.version>
-        <springboot.version>1.5.9.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <spring-boot-tk-mybatis.version>2.1.4</spring-boot-tk-mybatis.version>
     </properties>
 
